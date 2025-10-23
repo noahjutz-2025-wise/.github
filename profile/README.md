@@ -2,9 +2,11 @@
 
 # 2025 WiSe
 
-- DSDS
-- VS
-- DSQL
-- IS
-- HCI
-- SW
+| Modul |
+|-------|
+| [DSDS](https://typst.app/project/rMyawM9seERAMSc8qhVbzv) |     
+| [VS](https://typst.app/project/r7vnxo76srtUWEf53mocs5)   |   
+| [DSQL](https://typst.app/project/rvnZSTN3co1MZJqAkE5fOJ) |     
+| [IS](https://typst.app/project/rUwlfei6nYBokltXmLcJXN)   |   
+| [HCI](https://typst.app/project/rWsF43tMS7VgEWq2pFm0Ct)  |    
+| [SW](https://typst.app/project/rS1TJz14yXKQHeFxNXtV8G)   |   
